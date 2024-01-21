@@ -7,7 +7,7 @@ Follow the installation instructions [here](https://zig.guide/getting-started/in
 
 ## Build executable
 The variable $DIR is the sub-directory in this project which you wish to build.
-For example, executing `export DIR="hello"` would make the hello sudictory the target of the following commands.
+For example, executing `export DIR="hello"` would make the hello sub-directory the target of the following commands.
 
 ```
 cd $DIR
