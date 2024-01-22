@@ -1,7 +1,11 @@
 #!/bin/bash
 
-echo -e "\nBuilding executable ..."
+echo -e "\n# Building executable..."
 zig build-exe main.zig
 
-echo -e "\nExecuting ..."
+echo -e "\n# Executing..."
 ./main
+
+echo -e "\n# Cleaning up..."
+rm main
+rm main.o
