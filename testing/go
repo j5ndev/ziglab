@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\n# Testing testing_introduction.zig ..."
+zig test testing_introduction.zig
+
+echo -e "\n# Testing testing_failure.zig"
+zig test testing_failure.zig

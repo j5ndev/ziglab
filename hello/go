@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\nBuilding executable ..."
+zig build-exe main.zig
+
+echo -e "\nExecuting ..."
+./main
