@@ -3,7 +3,7 @@ This project is a scratch pad for learning [Zig](https://ziglang.org/).
 
 ## Install zig
 
-Follow the installation instructions [here](https://zig.guide/getting-started/installation).
+Follow the installation instructions [here](https://ziglang.org/learn/getting-started/#installing-zig).
 
 ## Build executable
 The variable $DIR is the sub-directory in this project which you wish to build.
